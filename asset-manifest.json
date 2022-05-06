@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rezzakali/tic_tac_toe.git/static/css/main.ae4cf5a8.css",
+    "main.js": "/rezzakali/tic_tac_toe.git/static/js/main.84eaffdf.js",
+    "static/js/787.393238a3.chunk.js": "/rezzakali/tic_tac_toe.git/static/js/787.393238a3.chunk.js",
+    "index.html": "/rezzakali/tic_tac_toe.git/index.html",
+    "main.ae4cf5a8.css.map": "/rezzakali/tic_tac_toe.git/static/css/main.ae4cf5a8.css.map",
+    "main.84eaffdf.js.map": "/rezzakali/tic_tac_toe.git/static/js/main.84eaffdf.js.map",
+    "787.393238a3.chunk.js.map": "/rezzakali/tic_tac_toe.git/static/js/787.393238a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae4cf5a8.css",
+    "static/js/main.84eaffdf.js"
+  ]
+}
